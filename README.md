@@ -6,9 +6,13 @@
 - User list + detailed view
 - Built with Vue 3 + TypeScript + Vite
 
+## LIVE DEMO
+
+https://click-counter-dq.netlify.app/
+
 ## Getting Started
 
 ## HOW TO RUN THIS PROYECT
 
-yarn or yarn install
-yarn run dev
+- yarn or yarn install
+- yarn dev
